@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Garr3sss
-- 👀 I’m interested in ethical hacking/cyber security
-- 🌱 I’m currently learning Linux tools & commands
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me
+- 👀 I’m interested in ethical hacking/cybersecurity
+- 🌱 I’m currently learning to use Linux-tools & -commands
 
 <!---
 Garr3sss/Garr3sss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
